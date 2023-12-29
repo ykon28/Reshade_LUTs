@@ -1,2 +1,3 @@
 # Reshade_LUTs
-custom LUT files for reshade
+
+rename the file to LUT.png and overwrite the file in folder /textures
